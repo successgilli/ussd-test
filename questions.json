@@ -1,0 +1,353 @@
+// {
+//     "response_code": 0,
+//     "results": [
+//         {
+//             "type": "boolean",
+//             "difficulty": "easy",
+//             "category": "General Knowledge",
+//             "question": "One of Donald Trump&#039;s 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.",
+//             "correct_answer": "True",
+//             "incorrect_answers": [
+//                 "False"
+//             ]
+//         },
+//         {
+//             "type": "boolean",
+//             "difficulty": "easy",
+//             "category": "General Knowledge",
+//             "question": "Scotland voted to become an independent country during the referendum from September 2014.",
+//             "correct_answer": "False",
+//             "incorrect_answers": [
+//                 "True"
+//             ]
+//         },
+//         {
+//             "type": "boolean",
+//             "difficulty": "easy",
+//             "category": "General Knowledge",
+//             "question": "Gumbo is a stew that originated in Louisiana.",
+//             "correct_answer": "True",
+//             "incorrect_answers": [
+//                 "False"
+//             ]
+//         },
+//         {
+//             "type": "boolean",
+//             "difficulty": "easy",
+//             "category": "General Knowledge",
+//             "question": "Video streaming website YouTube was purchased in it&#039;s entirety by Facebook for US$1.65 billion in stock.",
+//             "correct_answer": "False",
+//             "incorrect_answers": [
+//                 "True"
+//             ]
+//         },
+//         {
+//             "type": "boolean",
+//             "difficulty": "easy",
+//             "category": "General Knowledge",
+//             "question": "A pasodoble is a type of Italian pasta sauce.",
+//             "correct_answer": "False",
+//             "incorrect_answers": [
+//                 "True"
+//             ]
+//         },
+//         {
+//             "type": "boolean",
+//             "difficulty": "easy",
+//             "category": "General Knowledge",
+//             "question": "The Great Wall of China is visible from the moon.",
+//             "correct_answer": "False",
+//             "incorrect_answers": [
+//                 "True"
+//             ]
+//         },
+//         {
+//             "type": "boolean",
+//             "difficulty": "easy",
+//             "category": "General Knowledge",
+//             "question": "French is an official language in Canada.",
+//             "correct_answer": "True",
+//             "incorrect_answers": [
+//                 "False"
+//             ]
+//         },
+//         {
+//             "type": "boolean",
+//             "difficulty": "easy",
+//             "category": "General Knowledge",
+//             "question": "In 2010, Twitter and the United States Library of Congress partnered together to archive every tweet by American citizens.",
+//             "correct_answer": "True",
+//             "incorrect_answers": [
+//                 "False"
+//             ]
+//         },
+//         {
+//             "type": "boolean",
+//             "difficulty": "easy",
+//             "category": "General Knowledge",
+//             "question": "&quot;27 Club&quot; is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.",
+//             "correct_answer": "True",
+//             "incorrect_answers": [
+//                 "False"
+//             ]
+//         },
+//         {
+//             "type": "boolean",
+//             "difficulty": "easy",
+//             "category": "General Knowledge",
+//             "question": "Ping-Pong originated in England",
+//             "correct_answer": "True",
+//             "incorrect_answers": [
+//                 "False"
+//             ]
+//         }
+//     ]
+// }
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "What was Marilyn Monroe`s character&#039;s first name in the film &quot;Some Like It Hot&quot;?",
+            "correct_answer": "Sugar",
+            "incorrect_answers": [
+                "Honey",
+                "Caramel",
+                "Candy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which genre is the Touhou Project associated with?",
+            "correct_answer": "Shoot &#039;em up (bullet-hell) &amp; Fighting",
+            "incorrect_answers": [
+                "Turn-Based Strategy",
+                "MMORPG",
+                "Building "
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "What date is referenced in the 1971 song &quot;September&quot; by Earth, Wind &amp; Fire?",
+            "correct_answer": "21st of September",
+            "incorrect_answers": [
+                "26th of September",
+                "23rd of September",
+                "24th of September"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "According to their 1974 hit, what were Brownsville Station doing &quot;In The Boys&#039; Room&quot;?",
+            "correct_answer": "Smokin&#039;",
+            "incorrect_answers": [
+                "Hangin&#039;",
+                "Lovin&#039;",
+                "Peein&#039;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who is the main character of &quot;Metal Gear Solid 3&quot;?",
+            "correct_answer": "Naked Snake",
+            "incorrect_answers": [
+                "Solid Snake",
+                "Liquid Snake",
+                "Venom Snake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Books",
+            "question": "How many books are in the Chronicles of Narnia series?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "6",
+                "8",
+                "5"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": " Which of these champions from the MOBA &#039;League of Legends&#039; is NOT a Yordle?",
+            "correct_answer": "Annie",
+            "incorrect_answers": [
+                "Veigar",
+                "Tristana",
+                "Lulu"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "Which race enjoys a glass of warm baghol in &quot;Star Trek&quot;?",
+            "correct_answer": "Klingon",
+            "incorrect_answers": [
+                "Vulcan",
+                "Human",
+                "Botha"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "The Internet Meme &quot;All your base are belong to us&quot; is based on the poorly translated English Version of which Video Game?",
+            "correct_answer": "Zero Wing",
+            "incorrect_answers": [
+                "F-Zero",
+                "Wing Commander",
+                "Star Wars: X-Wing"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of the following created and directed the Katamari Damacy series?",
+            "correct_answer": "Keita Takahashi",
+            "incorrect_answers": [
+                "Hideki Kamiya",
+                "Shu Takumi",
+                "Shinji Mikami"
+            ]
+        }
+    ]
+}
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+            "correct_answer": "ADPCM Sampler",
+            "incorrect_answers": [
+                "FM Synthesizer",
+                "Programmable Sound Generator (PSG)",
+                "PCM Sampler"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What does GHz stand for?",
+            "correct_answer": "Gigahertz",
+            "incorrect_answers": [
+                "Gigahotz",
+                "Gigahetz",
+                "Gigahatz"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?",
+            "correct_answer": "Green",
+            "incorrect_answers": [
+                "Red",
+                "Blue",
+                "Yellow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Which of these names was an actual codename for a cancelled Microsoft project?",
+            "correct_answer": "Neptune",
+            "incorrect_answers": [
+                "Enceladus",
+                "Pollux",
+                "Saturn"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "In computing, what does MIDI stand for?",
+            "correct_answer": "Musical Instrument Digital Interface",
+            "incorrect_answers": [
+                "Musical Interface of Digital Instruments",
+                "Modular Interface of Digital Instruments",
+                "Musical Instrument Data Interface"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "In computing terms, typically what does CLI stand for?",
+            "correct_answer": "Command Line Interface",
+            "incorrect_answers": [
+                "Common Language Input",
+                "Control Line Interface",
+                "Common Language Interface"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+            "correct_answer": "&lt;marquee&gt;&lt;\/marquee&gt;",
+            "incorrect_answers": [
+                "&lt;scroll&gt;&lt;\/scroll&gt;",
+                "&lt;move&gt;&lt;\/move&gt;",
+                "&lt;slide&gt;&lt;\/slide&gt;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+            "correct_answer": "Amazon",
+            "incorrect_answers": [
+                "eBay",
+                "Overstock",
+                "Shopify"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "In web design, what does CSS stand for?",
+            "correct_answer": "Cascading Style Sheet",
+            "incorrect_answers": [
+                "Counter Strike: Source",
+                "Corrective Style Sheet",
+                "Computer Style Sheet"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Android versions are named in alphabetical order.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ]
+}
